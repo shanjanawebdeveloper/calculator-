@@ -24,4 +24,4 @@ r = R/(12*100)
 # Calculating Equated Monthly Installment (EMI)
 emi = p * r * ((1+r)**n)/((1+r)**n - 1)
 
-print("Monthly EMI = ", emi
+print("Monthly EMI = ", emi)
